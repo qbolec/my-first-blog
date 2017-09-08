@@ -25,7 +25,7 @@ SECRET_KEY = 'v0n8eyjxpg73hvmsvunx0!sf352#^jfk58rb%2t9by$i-r%d^+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['qbolec.pythonanywhere.com']
 
 
 # Application definition
